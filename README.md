@@ -15,7 +15,6 @@ Jump your way up from platform to platform and see how high you can score!
 7. [Gameplay](#gameplay)
 8. [Controls](#controls)
 
-
 ---
 
 ## Overview
@@ -37,6 +36,7 @@ Jump your way up from platform to platform and see how high you can score!
 - Responsive gameplay with smooth animations
 
 ## Screenshots
+
 <div style="display: flex;">
     <img src="./images/demo-img.png" alt="Demo Image 1" style="width: 20%; margin-right: 5%;" />
     <img src="./images/game-over-img.png" alt="Demo Image 2" style="width: 20%;" />
@@ -52,6 +52,7 @@ npm install
 npm start
 ## Usage
 ```
+
 To play "Dobby Jump," follow these steps:
 
 1. Press **Space** to start the game.
@@ -69,4 +70,3 @@ In "Dobby Jump," the goal is to ascend as high as possible by jumping from platf
 - **Left Arrow Key** or **A**: Move left
 - **Right Arrow Key** or **D**: Move right
 - **Space**: start/restart the game
-
