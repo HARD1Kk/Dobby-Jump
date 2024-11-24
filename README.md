@@ -36,8 +36,8 @@ Jump your way up from platform to platform and see how high you can score!
 
 ## Screenshots
 <div style="display: flex;">
-    <img src="./images/demo-img.png" alt="Demo Image 1" style="width: 45%; margin-right: 5%;" />
-    <img src="./images/game-over-img.png" alt="Demo Image 2" style="width: 45%;" />
+    <img src="./images/demo-img.png" alt="Demo Image 1" style="width: 20%; margin-right: 5%;" />
+    <img src="./images/game-over-img.png" alt="Demo Image 2" style="width: 20%;" />
 </div>
 
 ## Installation
