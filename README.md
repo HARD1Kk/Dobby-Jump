@@ -24,7 +24,7 @@ Jump your way up from platform to platform and see how high you can score!
 ## Gameplay Demo
 
 <div style="display: flex;">
- <img src="./images/gameplay-gif-video.gif" alt="Demo " width="400"; />
+ <img src="./images/gameplay-gif-video.gif" alt="Demo " width="100"; />
  </div>
 
 ## Features
