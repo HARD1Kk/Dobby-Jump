@@ -22,9 +22,10 @@ Jump your way up from platform to platform and see how high you can score!
 
 "Dobby Jump" is a thrilling jumping game where players leap from platform to platform to reach new heights. Challenge yourself to climb as high as possible while avoiding falls to increase your score.
 
-## Demo
+## Gameplay Demo
 
-![GamePlay ](./images/gameplay-gif.mp4)
+ <img src="./images/gameplay-gif-video.gif" alt="Demo " style="width: 20%;" />
+ 
 
 ## Features
 
