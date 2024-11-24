@@ -35,9 +35,10 @@ Jump your way up from platform to platform and see how high you can score!
 - Responsive gameplay with smooth animations
 
 ## Screenshots
-<img src="./images/demo-img.png" alt="Demo Screenshot" width="300"/>
-![Game Start ](./images/demo-img.png)
-![Game Over ](./images/game-over-img.png)
+<div style="display: flex;">
+    <img src="./images/demo-img.png" alt="Demo Image 1" style="width: 45%; margin-right: 5%;" />
+    <img src="./images/game-over-img.png" alt="Demo Image 2" style="width: 45%;" />
+</div>
 
 ## Installation
 
