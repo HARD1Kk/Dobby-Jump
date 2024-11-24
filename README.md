@@ -26,7 +26,7 @@ Jump your way up from platform to platform and see how high you can score!
 <div style="display: flex;">
  <img src="./images/gameplay-gif-video.gif" alt="Demo " width="200"; />
  </div>
-
+ https://dobby-jump.vercel.app/
 ## Features
 
 - Intuitive jumping mechanics
@@ -50,9 +50,9 @@ git clone https://github.com/HARD1Kk/Dobby-Jump.git
 cd your-repository
 npm install
 npm start
-## Usage
-```
 
+```
+## Usage
 To play "Dobby Jump," follow these steps:
 
 1. Press **Space** to start the game.
