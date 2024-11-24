@@ -35,7 +35,7 @@ Jump your way up from platform to platform and see how high you can score!
 - Responsive gameplay with smooth animations
 
 ## Screenshots
-
+<img src="./images/demo-img.png" alt="Demo Screenshot" width="300"/>
 ![Game Start ](./images/demo-img.png)
 ![Game Over ](./images/game-over-img.png)
 
