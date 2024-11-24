@@ -26,7 +26,7 @@ Jump your way up from platform to platform and see how high you can score!
 <div style="display: flex;">
  <img src="./images/gameplay-gif-video.gif" alt="Demo " width="200"; />
  </div>
- https://dobby-jump.vercel.app/
+ <p>Check out the live demo of the project [here](https://dobby-jump.vercel.app/).</p>
 ## Features
 
 - Intuitive jumping mechanics
