@@ -49,7 +49,7 @@ Jump your way up from platform to platform and see how high you can score!
 
 ```bash
 # Example installation steps
-git clone https://github.com/HARD1Kk/Dobby-Jump.git
+git clone https://github.com/your-username/Dobby-Jump.git
 cd your-repository
 npm install
 npm start
